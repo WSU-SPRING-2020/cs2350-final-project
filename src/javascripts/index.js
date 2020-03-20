@@ -4,4 +4,6 @@ require.context('../images/', true, /\.(gif|jpg|png|svg|eot|ttf|woff|woff2)$/i)
 require.context('../stylesheets/', true, /\.(css|scss)$/i)
 
 // JavaScript
+import 'bootstrap'
+
 //TODO
